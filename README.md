@@ -32,6 +32,7 @@
     <p>Clone this repository:</p>
     <pre><code>git clone https://github.com/DOWNLOADER-ZONE/TOKEN.PICKLE-Email-Finder.git</pre></code>
 <pre><code>cd TOKEN.PICKLE-Email-Finder</pre></code>
+  <pre><code>pip install -r requirements.txt</code></pre>
 <p>Place your token.pickle file inside the project folder.</p>
     <p>Run the script:</p>
     <pre><code>python get_email.py</code></pre>
