@@ -50,5 +50,7 @@
     <p>Your <code>token.pickle</code> doesn’t include Drive scopes. You’ll need to regenerate it with proper scopes (like <code>drive.metadata.readonly</code>) to access the email.</p>
     <h2>📃 License</h2>
     <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
-</body>
-</html>
+
+<p align="center">
+  <b>Made with ❤️ by Downloader Zone</b>
+</p>
