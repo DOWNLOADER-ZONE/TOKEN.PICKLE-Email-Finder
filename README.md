@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220" src="https://i.rj1.dev/VmzBUoH" alt="Downloader Zone Logo">
+  <img width="220" src="https://neximagen.mysterysd.in/view/AgACAgUAAyEGAASYZ-7zAAMwaBUMbSvqR69hW2saLELmE8GLSIcAAvnGMRtQGKhUwoEvEB6833ABAAMCAAN4AAM2BA" alt="Downloader Zone Logo">
 </p>
 
 <body>
